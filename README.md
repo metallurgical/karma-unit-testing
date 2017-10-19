@@ -2,7 +2,7 @@
 Javascript Unit Testing using karma together with Mocha, Chai and requirejs. You can just test the code alone using Mocha, just
 imagine you've a lot of test suite, it's best if we can watch the changes, generate the report, etc by using Karma(not Wings hukum karma okey)!
 
-## Requirement
+## Requirements
  - Karma(Test Runner)
  - Mocha(Test Framework)
  - Chai

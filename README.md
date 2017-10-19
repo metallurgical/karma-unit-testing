@@ -64,7 +64,7 @@ module.exports = function(config) {
         'karma-phantomjs-launcher',
 	'karma-mocha',
 	'karma-requirejs',
-        'karma-chai',
+	'karma-chai',
 	'karma-chrome-launcher'   
     ],
 

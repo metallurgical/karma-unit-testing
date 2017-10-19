@@ -76,7 +76,6 @@ module.exports = function(config) {
 
     // list of files to exclude
     exclude: [
-        './app/private/header/failure.js'
     ],
     
     reporters: ['progress'],

@@ -1,6 +1,6 @@
 ## Introduction
 Javascript Unit Testing using karma together with Mocha, Chai and requirejs. You can just test the code alone using Mocha, just
-imagine you've a lot of test suite, it's best if we can watch the changes, generate the report, etc by using Karma(not Wings hukum karma)!
+imagine you've a lot of test suite, it's best if we can watch the changes, generate the report, etc by using Karma(not Wings hukum karma okey)!
 
 ## Requirement
  - Karma(Test Runner)
@@ -39,7 +39,7 @@ imagine you've a lot of test suite, it's best if we can watch the changes, gener
       npm i phantomjs --save-dev // optional
       ```
       
-    d) Install karma-cli, for enabling karma command as a global
+    d) Install karma-cli, for enabling karma command as a global `npm i -g karma-cli`
  
  3) Create `karma.conf.js`file using following command `karma init` --> this command will create karma.conf.js. Or copy 
  from the code below and paste into `karma.conf.js` :

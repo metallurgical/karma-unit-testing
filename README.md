@@ -61,11 +61,11 @@ module.exports = function(config) {
 
     // set plugins that we need to use with karma during test execution
     plugins : [
-        'karma-phantomjs-launcher',
-	'karma-mocha',
-	'karma-requirejs',
-	'karma-chai',
-	'karma-chrome-launcher'   
+      'karma-phantomjs-launcher',
+      'karma-mocha',
+      'karma-requirejs',
+      'karma-chai',
+      'karma-chrome-launcher'   
     ],
 
     // list of files / patterns to load in the browser
